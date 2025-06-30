@@ -2,6 +2,7 @@
 ### *The No/Low-Code MCP Agent Generator*  
 **Turn ideas into production-ready AI agents in seconds—no boilerplate, no headaches.**  
 
+**1-min-pitch**: [YouTube Pitch](https://youtu.be/R9m-9FPKB0M)  
 ---
 
 ## **📌 Overview**  
