@@ -78,16 +78,13 @@
    - Google for Startups program.  
    - AI tool marketplaces (e.g., Hugging Face).
 
-  ## **💡 Why This Will Work**  
-1. **Solves Real Pain**: Cuts 80% of agent setup time... no more repetition 
-3. **First-Mover**: No dedicated no-code MCP tool exists... the only similar tool is N8n but it lacks code functionality.. users are dependent on using their closed-end tools to build agents.
-4. **Ecosystem Fit**: Google ADK is growing—be its "Vercel for Agents."  
-
----
-
-**Let's make MCP agent development effortless.** 🚀  
 
 ## **💡 Why This Will Work**  
 1. **Solves Real Pain**: Cuts 80% of agent setup time.  
 2. **First-Mover**: No dedicated no-code MCP tool exists.  
 3. **Ecosystem Fit**: Google ADK is growing—be its "Vercel for Agents."  
+
+---
+
+**Let's make MCP agent development effortless.** 🚀  
+
