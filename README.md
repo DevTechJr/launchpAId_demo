@@ -3,6 +3,7 @@
 **Turn ideas into production-ready AI agents in seconds—no boilerplate, no headaches.**  
 
 **1-min-pitch**: [YouTube Pitch](https://youtu.be/R9m-9FPKB0M)  
+**1-min-proof of concept demo**: [YouTube POOC Demo](https://www.youtube.com/watch?v=GdnuCsZWZvs)  
 ---
 
 ## **📌 Overview**  
@@ -81,8 +82,8 @@
 
 
 ## **💡 Why This Will Work**  
-1. **Solves Real Pain**: Cuts 80% of agent setup time.  
-2. **First-Mover**: No dedicated no-code MCP tool exists.  
+1. **Solves Real Pain**: Cuts 80% of agent setup time... no more repetition in mcp toolset/setup templating.
+2. **First-Mover**: No dedicated no-code MCP tool exists... N7n is closed circuit, paid and forces users to depend on a no-code n8n native stack.. no integrations with python.
 3. **Ecosystem Fit**: Google ADK is growing—be its "Vercel for Agents."  
 
 ---
