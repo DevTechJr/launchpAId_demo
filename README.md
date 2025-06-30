@@ -83,7 +83,7 @@
 
 ## **💡 Why This Will Work**  
 1. **Solves Real Pain**: Cuts 80% of agent setup time... no more repetition in mcp toolset/setup templating.
-2. **First-Mover**: No dedicated no-code MCP tool exists... N7n is closed circuit, paid and forces users to depend on a no-code n8n native stack.. no integrations with python.
+2. **First-Mover**: No dedicated no-code MCP tool exists... n8n is closed circuit, paid and forces users to depend on a no-code n8n native stack.. no integrations with python.
 3. **Ecosystem Fit**: Google ADK is growing—be its "Vercel for Agents."  
 
 ---
