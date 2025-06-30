@@ -5,7 +5,7 @@
 **1-min-pitch**: [YouTube Pitch](https://youtu.be/R9m-9FPKB0M)  
 **1-min-proof of concept demo**: [YouTube POOC Demo](https://www.youtube.com/watch?v=GdnuCsZWZvs)  
 
-*this project is still in ideation/proof of concept stages.. i thought of this yesterday and didnt have enough time for a full fledged prototype*
+`this project is still in ideation/proof of concept stages.. i thought of this yesterday and didnt have enough time for a full fledged prototype`
 ---
 
 ## **📌 Overview**  
